@@ -1,6 +1,6 @@
 # hello_world
 
-Hi guys,
+Hi chicos,
 
 I'm learning Data Science through Kaggle competitions and reading repos here. I'm keeping my work tidy on github.
 
